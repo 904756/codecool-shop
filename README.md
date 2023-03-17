@@ -3,8 +3,9 @@
 ![](../../../../Desktop/Screenshot 2023-03-17 at 18.45.40.png)
 
 
-This application is an online shop created using Java programming language and PostgreSQL database management system. 
-The application allows users to browse products, add them to a cart, and checkout their orders.
+This is an online shop created using Java programming language and PostgreSQL database management system. The front-end 
+of the application is built using HTML, CSS, and JavaScript. The application allows users to browse products, add them 
+to a cart, and checkout their orders. It also provides an admin dashboard to manage products, orders, and users.
 
 As a customer, you can:
 
