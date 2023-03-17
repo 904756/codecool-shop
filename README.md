@@ -1,6 +1,6 @@
 ### Codecool Shop
 
-![](../../../../Desktop/Screenshot 2023-03-17 at 18.45.40.png)
+![Screenshot 2023-03-17 at 18 45 40](https://user-images.githubusercontent.com/54028278/225968762-4964224d-b886-45d2-b54a-09786eebde7d.png)
 
 
 This is an online shop created using Java programming language and PostgreSQL database management system. The front-end 
